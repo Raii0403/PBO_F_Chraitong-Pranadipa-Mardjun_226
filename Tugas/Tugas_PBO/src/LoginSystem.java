@@ -7,7 +7,7 @@ public class LoginSystem {
         System.out.println("Pilih login:");
         System.out.println("1. Admin");
         System.out.println("2. Mahasiswa");
-        System.out.print("Masukkan pilihan: ");
+        System.out.print("Masukkan pilihan anda: ");
 
         int pilihan = scanner.nextInt();
         scanner.nextLine(); // membersihkan newline character
